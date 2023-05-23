@@ -1,0 +1,11 @@
+D:\LEARN_LINQ\HocImplicitType\bin\Debug\HocImplicitType.exe.config
+D:\LEARN_LINQ\HocImplicitType\bin\Debug\HocImplicitType.exe
+D:\LEARN_LINQ\HocImplicitType\bin\Debug\HocImplicitType.pdb
+D:\LEARN_LINQ\HocImplicitType\obj\Debug\HocImplicitType.csproj.AssemblyReference.cache
+D:\LEARN_LINQ\HocImplicitType\obj\Debug\HocImplicitType.csproj.SuggestedBindingRedirects.cache
+D:\LEARN_LINQ\HocImplicitType\obj\Debug\HocImplicitType.Form1.resources
+D:\LEARN_LINQ\HocImplicitType\obj\Debug\HocImplicitType.Properties.Resources.resources
+D:\LEARN_LINQ\HocImplicitType\obj\Debug\HocImplicitType.csproj.GenerateResource.cache
+D:\LEARN_LINQ\HocImplicitType\obj\Debug\HocImplicitType.csproj.CoreCompileInputs.cache
+D:\LEARN_LINQ\HocImplicitType\obj\Debug\HocImplicitType.exe
+D:\LEARN_LINQ\HocImplicitType\obj\Debug\HocImplicitType.pdb

@@ -1,0 +1,11 @@
+D:\LEARN_LINQ\HocLinQ\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\LEARN_LINQ\HocLinQ\HelloWorld\bin\Debug\HelloWorld.exe
+D:\LEARN_LINQ\HocLinQ\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\LEARN_LINQ\HocLinQ\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\LEARN_LINQ\HocLinQ\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+D:\LEARN_LINQ\HocLinQ\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+D:\LEARN_LINQ\HocLinQ\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+D:\LEARN_LINQ\HocLinQ\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+D:\LEARN_LINQ\HocLinQ\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\LEARN_LINQ\HocLinQ\HelloWorld\obj\Debug\HelloWorld.exe
+D:\LEARN_LINQ\HocLinQ\HelloWorld\obj\Debug\HelloWorld.pdb

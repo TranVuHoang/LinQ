@@ -1,0 +1,11 @@
+D:\LEARN_LINQ\HocLinQ\HocGeneric\bin\Debug\HocGeneric.exe.config
+D:\LEARN_LINQ\HocLinQ\HocGeneric\bin\Debug\HocGeneric.exe
+D:\LEARN_LINQ\HocLinQ\HocGeneric\bin\Debug\HocGeneric.pdb
+D:\LEARN_LINQ\HocLinQ\HocGeneric\obj\Debug\HocGeneric.csproj.AssemblyReference.cache
+D:\LEARN_LINQ\HocLinQ\HocGeneric\obj\Debug\HocGeneric.csproj.SuggestedBindingRedirects.cache
+D:\LEARN_LINQ\HocLinQ\HocGeneric\obj\Debug\HocGeneric.Form1.resources
+D:\LEARN_LINQ\HocLinQ\HocGeneric\obj\Debug\HocGeneric.Properties.Resources.resources
+D:\LEARN_LINQ\HocLinQ\HocGeneric\obj\Debug\HocGeneric.csproj.GenerateResource.cache
+D:\LEARN_LINQ\HocLinQ\HocGeneric\obj\Debug\HocGeneric.csproj.CoreCompileInputs.cache
+D:\LEARN_LINQ\HocLinQ\HocGeneric\obj\Debug\HocGeneric.exe
+D:\LEARN_LINQ\HocLinQ\HocGeneric\obj\Debug\HocGeneric.pdb
